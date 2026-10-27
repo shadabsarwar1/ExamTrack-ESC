@@ -1,0 +1,691 @@
+{
+  "exams": [
+    {
+      "id": "exam-wbpsc-wbcs-2026",
+      "title": "WBPSC West Bengal Civil Services (Exe) Recruitment 2026",
+      "organization": "Public Service Commission, West Bengal (WBPSC)",
+      "postName": "WBCS Group A, B, C & D Officers (Executive & Allied)",
+      "category": "State PSC",
+      "status": "draft",
+      "totalVacancies": 780,
+      "salaryRange": "₹56,100 - ₹1,77,500 (Pay Level 10 - Level 16)",
+      "importantDates": {
+        "applicationStart": "15-10-2026",
+        "applicationEnd": "28-11-2026",
+        "feeLastDate": "29-11-2026",
+        "admitCardDate": "01-01-2027",
+        "examDate": "01-02-2027",
+        "resultDate": "01-05-2027"
+      },
+      "eligibility": {
+        "minQualification": "Bachelor’s Degree in any discipline from a recognized University in India. Ability to read, write and speak in Bengali (not mandatory for candidates whose mother tongue is Nepali).",
+        "ageLimit": "21 to 36 years as of 01.01.2026. Age relaxation of 5 years for SC/ST and 3 years for OBC of West Bengal.",
+        "experience": "Fresher eligible (No prior experience required)"
+      },
+      "applicationFee": {
+        "generalOBC": "₹210/- + convenience fee",
+        "scStPwd": "Nil (Exempted for SC/ST/PwD of WB)",
+        "paymentMode": "Online Debit/Credit card, Net banking or Offline Challan"
+      },
+      "selectionProcess": [
+        "Preliminary Examination (200 marks, MCQ based screening)",
+        "Main Examination (6 Compulsory Papers + 2 Optional Papers for Group A & B)",
+        "Personality Test / Interview (200 Marks for Group A & B, 150 for Group C, 100 for Group D)"
+      ],
+      "syllabusHighlights": "General Studies, History of India with special reference to National Movement, Geography of India with special reference to West Bengal, Indian Polity and Economy, General Science, English Composition.",
+      "vacancyDetails": [
+        {
+          "post": "W.B. Civil Service (Executive)",
+          "count": "120",
+          "qualification": "Graduate"
+        },
+        {
+          "post": "W.B. Commercial Tax Service",
+          "count": "95",
+          "qualification": "Graduate"
+        },
+        {
+          "post": "W.B. Police Service (Group B)",
+          "count": "45",
+          "qualification": "Graduate (Height criteria applies)"
+        },
+        {
+          "post": "Joint Block Development Officer (JBDO)",
+          "count": "210",
+          "qualification": "Graduate"
+        },
+        {
+          "post": "Sub-Inspector of Subordinate Revenue Service",
+          "count": "310",
+          "qualification": "Graduate"
+        }
+      ],
+      "links": {
+        "officialWebsite": "https://psc.wb.gov.in",
+        "notificationPdf": "https://psc.wb.gov.in/static/advt_wbcs_2026.pdf",
+        "applyOnline": "https://psc.wb.gov.in/apply-online"
+      },
+      "summary": "Public Service Commission, West Bengal has released official notification for WBCS (Exe) etc. Examination 2026 for recruitment to various administrative posts across WB Government departments.",
+      "escGuidanceNotes": "ESC Kolkata Employment School will conduct free weekly mock tests and mentoring sessions for registered students. Special focus on Bengali language paper and West Bengal history/geography.",
+      "tags": [
+        "West Bengal",
+        "WBPSC",
+        "WBCS",
+        "Graduation Govt Job",
+        "Civil Services"
+      ],
+      "createdAt": "2026-10-26T09:32:00.626Z",
+      "updatedAt": "2026-10-26T13:32:00.627Z",
+      "approvalChannel": null,
+      "approvedAt": null,
+      "publishedAt": null,
+      "queueRemovalReason": "Mandatory links have not been verified yet.",
+      "removedFromQueueAt": "2026-10-26T13:32:00.627Z",
+      "linkVerification": {
+        "verified": true,
+        "applyOnline": {
+          "url": "https://psc.wb.gov.in/apply-online",
+          "valid": true,
+          "status": "verified",
+          "statusCode": 200,
+          "message": "Direct link verified active",
+          "checkedAt": "2026-10-26T13:35:10.332Z"
+        },
+        "notificationPdf": {
+          "url": "https://psc.wb.gov.in/static/advt_wbcs_2026.pdf",
+          "valid": true,
+          "status": "verified",
+          "statusCode": 200,
+          "isPdf": true,
+          "message": "Official notification PDF verified reachable",
+          "checkedAt": "2026-10-26T13:35:10.332Z"
+        },
+        "officialWebsite": {
+          "url": "https://psc.wb.gov.in",
+          "valid": true,
+          "status": "verified",
+          "statusCode": 200,
+          "message": "Official portal verified active",
+          "checkedAt": "2026-10-26T13:35:10.332Z"
+        },
+        "checkedAt": "2026-10-26T13:35:10.332Z"
+      }
+    },
+    {
+      "id": "exam-ssc-cgl-2026",
+      "title": "SSC Combined Graduate Level (CGL) 2026 Recruitment",
+      "organization": "Staff Selection Commission (SSC)",
+      "postName": "Assistant Section Officer, Inspector (GST/IT/Excise), Sub-Inspector (CBI), Auditor",
+      "category": "SSC",
+      "status": "draft",
+      "totalVacancies": 14582,
+      "salaryRange": "₹35,400 - ₹1,42,400 (Pay Level 4 to Level 7)",
+      "importantDates": {
+        "applicationStart": "01-10-2026",
+        "applicationEnd": "12-11-2026",
+        "feeLastDate": "13-11-2026",
+        "admitCardDate": "01-12-2026",
+        "examDate": "15-01-2028",
+        "resultDate": "01-03-2027"
+      },
+      "eligibility": {
+        "minQualification": "Bachelor’s Degree from a recognized University or equivalent. Final year students can also apply provided they acquire qualification before cut-off date.",
+        "ageLimit": "18 to 30/32 years (post-wise variation). Relaxations: OBC: 3 yrs, SC/ST: 5 yrs, PwD: 10 yrs.",
+        "experience": "Not required"
+      },
+      "applicationFee": {
+        "generalOBC": "₹100/-",
+        "scStPwd": "Nil (Women / SC / ST / PwD / Ex-Servicemen exempted)",
+        "paymentMode": "BHIM UPI, Net Banking, Visa, Mastercard, Maestro, RuPay Credit or Debit cards"
+      },
+      "selectionProcess": [
+        "Tier-I Computer Based Examination (Qualifying)",
+        "Tier-II Computer Based Examination (Paper I: Math, Reasoning, English, General Awareness, Computer + Data Entry Speed Test)",
+        "Document Verification & Medical Examination by User Departments"
+      ],
+      "syllabusHighlights": "Reasoning, Quantitative Aptitude, English Comprehension, General Awareness, Computer Knowledge and Typing speed test (minimum 27 wpm).",
+      "vacancyDetails": [
+        {
+          "post": "Assistant Section Officer (CSS/MEA/Railway)",
+          "count": "1,840",
+          "qualification": "Graduate"
+        },
+        {
+          "post": "Inspector of Central Excise / GST",
+          "count": "2,650",
+          "qualification": "Graduate"
+        },
+        {
+          "post": "Income Tax Inspector (CBDT)",
+          "count": "620",
+          "qualification": "Graduate"
+        },
+        {
+          "post": "Auditor & Accountant (CAG/CGA)",
+          "count": "4,100",
+          "qualification": "Graduate"
+        },
+        {
+          "post": "Tax Assistant & Postal Assistant",
+          "count": "5,372",
+          "qualification": "Graduate"
+        }
+      ],
+      "links": {
+        "officialWebsite": "https://ssc.gov.in",
+        "notificationPdf": "https://ssc.gov.in/api/assets/cgl_2026_notice.pdf",
+        "applyOnline": "https://ssc.gov.in"
+      },
+      "summary": "SSC has published official notification for recruitment of 14,500+ Group B & C Officers in various Ministries, Departments, and Organizations of the Government of India.",
+      "escGuidanceNotes": "ESC Kolkata Employment School conducts Tier-I and Tier-II computer lab test simulations every Saturday. Students from West Bengal region are advised to choose Kolkata / Siliguri exam centers.",
+      "tags": [
+        "SSC",
+        "Central Govt",
+        "Graduate",
+        "CGL 2026",
+        "All India Vacancy"
+      ],
+      "createdAt": "2026-10-26T05:32:00.627Z",
+      "updatedAt": "2026-10-26T13:32:00.627Z",
+      "approvalChannel": null,
+      "approvedAt": null,
+      "publishedAt": null,
+      "queueRemovalReason": "Mandatory links have not been verified yet.",
+      "removedFromQueueAt": "2026-10-26T13:32:00.627Z",
+      "linkVerification": {
+        "verified": true,
+        "applyOnline": {
+          "url": "https://ssc.gov.in",
+          "valid": true,
+          "status": "verified",
+          "statusCode": 200,
+          "message": "Direct link verified active",
+          "checkedAt": "2026-10-26T13:35:10.333Z"
+        },
+        "notificationPdf": {
+          "url": "https://ssc.gov.in/api/assets/cgl_2026_notice.pdf",
+          "valid": true,
+          "status": "verified",
+          "statusCode": 200,
+          "isPdf": true,
+          "message": "Official notification PDF verified reachable",
+          "checkedAt": "2026-10-26T13:35:10.333Z"
+        },
+        "officialWebsite": {
+          "url": "https://ssc.gov.in",
+          "valid": true,
+          "status": "verified",
+          "statusCode": 200,
+          "message": "Official portal verified active",
+          "checkedAt": "2026-10-26T13:35:10.333Z"
+        },
+        "checkedAt": "2026-10-26T13:35:10.333Z"
+      }
+    },
+    {
+      "id": "exam-ibps-po-xiv",
+      "title": "IBPS PO / Management Trainee CRP PO/MT XIV 2026",
+      "organization": "Institute of Banking Personnel Selection (IBPS)",
+      "postName": "Probationary Officer (PO) / Management Trainee",
+      "category": "Banking",
+      "status": "approved",
+      "totalVacancies": 4455,
+      "salaryRange": "₹36,000 - ₹63,840 (Initial in-hand ~₹52,000 - ₹56,000 + allowances)",
+      "importantDates": {
+        "applicationStart": "20-09-2026",
+        "applicationEnd": "05-11-2026",
+        "feeLastDate": "05-11-2026",
+        "admitCardDate": "01-11-2026",
+        "examDate": "Pre: Dec 2026 | Main: Jan 2027",
+        "resultDate": "01-04-2027"
+      },
+      "eligibility": {
+        "minQualification": "A Degree (Graduation) in any discipline from a University recognized by the Govt. Of India. Basic computer operating knowledge required.",
+        "ageLimit": "20 to 30 years. Upper age relaxation applicable as per banking norms (SC/ST: 5 yrs, OBC: 3 yrs).",
+        "experience": "Fresher eligible"
+      },
+      "applicationFee": {
+        "generalOBC": "₹850/-",
+        "scStPwd": "₹175/- (Intimation charges only)",
+        "paymentMode": "Online Payment Gateway"
+      },
+      "selectionProcess": [
+        "Preliminary Online Exam (English, Quantitative Aptitude, Reasoning Ability - 100 Marks)",
+        "Main Online Exam (Objective 200 Marks + Descriptive English 25 Marks)",
+        "Common Interview conducted by participating banks and coordinated by IBPS (100 Marks)"
+      ],
+      "syllabusHighlights": "Data Analysis & Interpretation, Reasoning & Computer Aptitude, General/Economy/Banking Awareness, English Language (Letter & Essay writing).",
+      "vacancyDetails": [
+        {
+          "post": "Bank of Baroda PO",
+          "count": "1,000",
+          "qualification": "Graduate"
+        },
+        {
+          "post": "Punjab National Bank PO",
+          "count": "1,250",
+          "qualification": "Graduate"
+        },
+        {
+          "post": "Canara Bank PO",
+          "count": "750",
+          "qualification": "Graduate"
+        },
+        {
+          "post": "Union Bank of India PO",
+          "count": "800",
+          "qualification": "Graduate"
+        },
+        {
+          "post": "Central Bank of India PO",
+          "count": "655",
+          "qualification": "Graduate"
+        }
+      ],
+      "links": {
+        "officialWebsite": "https://www.ibps.in",
+        "notificationPdf": "https://www.ibps.in/crp-po-mt-xiv-notification.pdf",
+        "applyOnline": "https://ibpsonline.ibps.in/crpioxivsep26/"
+      },
+      "summary": "IBPS has invited online applications for the recruitment of Probationary Officers across 11 participating public sector commercial banks in India.",
+      "escGuidanceNotes": "Banking Awareness study materials updated by ESC faculty are available at ESC Kolkata library. Mock interviews will be arranged for students clearing Mains.",
+      "tags": [
+        "Bank PO",
+        "IBPS",
+        "Public Sector Bank",
+        "Graduate Job",
+        "Banking Career"
+      ],
+      "createdAt": "2026-10-25T17:32:00.627Z",
+      "updatedAt": "2026-10-26T01:32:00.627Z",
+      "approvalChannel": "email",
+      "approvedAt": "2026-10-26T01:32:00.627Z",
+      "publishedAt": null,
+      "linkVerification": {
+        "verified": true,
+        "applyOnline": {
+          "url": "https://ibpsonline.ibps.in/crpioxivsep26/",
+          "valid": true,
+          "status": "verified",
+          "statusCode": 200,
+          "message": "Direct link verified active",
+          "checkedAt": "2026-10-26T13:35:10.333Z"
+        },
+        "notificationPdf": {
+          "url": "https://www.ibps.in/crp-po-mt-xiv-notification.pdf",
+          "valid": true,
+          "status": "verified",
+          "statusCode": 200,
+          "isPdf": true,
+          "message": "Official notification PDF verified reachable",
+          "checkedAt": "2026-10-26T13:35:10.333Z"
+        },
+        "officialWebsite": {
+          "url": "https://www.ibps.in",
+          "valid": true,
+          "status": "verified",
+          "statusCode": 200,
+          "message": "Official portal verified active",
+          "checkedAt": "2026-10-26T13:35:10.333Z"
+        },
+        "checkedAt": "2026-10-26T13:35:10.333Z"
+      }
+    },
+    {
+      "id": "exam-rrb-ntpc-2026",
+      "title": "Railway Recruitment Board (RRB) NTPC Graduate Level Recruitment",
+      "organization": "Ministry of Railways, Railway Recruitment Boards (RRBs)",
+      "postName": "Station Master, Goods Train Manager, Chief Commercial cum Ticket Supervisor",
+      "category": "Railways",
+      "status": "published",
+      "totalVacancies": 8113,
+      "salaryRange": "₹29,200 - ₹35,400 (7th CPC Level 5 & 6)",
+      "importantDates": {
+        "applicationStart": "14-09-2026",
+        "applicationEnd": "20-10-2026",
+        "feeLastDate": "22-10-2026",
+        "admitCardDate": "01-11-2026",
+        "examDate": "December 2026 - January 2027",
+        "resultDate": "01-03-2027"
+      },
+      "eligibility": {
+        "minQualification": "University Degree or its equivalent. Medical fitness standard A-2 for Station Master and Goods Train Manager.",
+        "ageLimit": "18 to 36 years (with 3-year COVID age concession). Standard SC/ST/OBC relaxations apply.",
+        "experience": "Nil"
+      },
+      "applicationFee": {
+        "generalOBC": "₹500/- (₹400 refundable on appearing in CBT-1)",
+        "scStPwd": "₹250/- (Fully refundable on appearing in CBT-1)",
+        "paymentMode": "Online via internet banking, debit/credit cards, UPI"
+      },
+      "selectionProcess": [
+        "1st Stage Computer Based Test (CBT-1 common for all posts)",
+        "2nd Stage Computer Based Test (CBT-2 separate for each 7th CPC Level)",
+        "Computer Based Aptitude Test (CBAT) for Station Master posts",
+        "Document Verification (DV) followed by Medical Examination"
+      ],
+      "links": {
+        "officialWebsite": "https://rrbkolkata.gov.in",
+        "notificationPdf": "https://rrbkolkata.gov.in/CEN_05_2026_NTPC.pdf",
+        "applyOnline": "https://www.rrbapply.gov.in"
+      },
+      "summary": "Indian Railways RRB has announced 8,113 graduate vacancies across all zones including Eastern Railway, South Eastern Railway, and Metro Railway Kolkata.",
+      "escGuidanceNotes": "Published on esckolkata2003.org. ESC Employment School has initiated dedicated batches for RRB CBT Math and Reasoning shortcut techniques.",
+      "tags": [
+        "Railway",
+        "RRB Kolkata",
+        "NTPC",
+        "Station Master",
+        "Govt Job"
+      ],
+      "createdAt": "2026-10-24T13:32:00.627Z",
+      "updatedAt": "2026-10-26T11:32:00.627Z",
+      "approvalChannel": "telegram",
+      "approvedAt": "2026-10-26T10:32:00.627Z",
+      "publishedAt": "2026-10-26T11:32:00.627Z",
+      "wpPostId": 10428,
+      "wpPostUrl": "https://esckolkata2003.org/rrb-ntpc-graduate-level-recruitment-8113-posts/",
+      "wpPublishStatus": "publish",
+      "linkVerification": {
+        "verified": true,
+        "applyOnline": {
+          "url": "https://www.rrbapply.gov.in",
+          "valid": true,
+          "status": "verified",
+          "statusCode": 200,
+          "message": "Direct link verified active",
+          "checkedAt": "2026-10-26T13:35:10.333Z"
+        },
+        "notificationPdf": {
+          "url": "https://rrbkolkata.gov.in/CEN_05_2026_NTPC.pdf",
+          "valid": true,
+          "status": "verified",
+          "statusCode": 200,
+          "isPdf": true,
+          "message": "Official notification PDF verified reachable",
+          "checkedAt": "2026-10-26T13:35:10.333Z"
+        },
+        "officialWebsite": {
+          "url": "https://rrbkolkata.gov.in",
+          "valid": true,
+          "status": "verified",
+          "statusCode": 200,
+          "message": "Official portal verified active",
+          "checkedAt": "2026-10-26T13:35:10.333Z"
+        },
+        "checkedAt": "2026-10-26T13:35:10.333Z"
+      }
+    },
+    {
+      "id": "exam-wbprb-si-2026",
+      "title": "West Bengal Police SI & Lady SI Recruitment 2026",
+      "organization": "West Bengal Police Recruitment Board (WBPRB)",
+      "postName": "Sub-Inspector / Sub-Inspectress (UB) and Sergeant in Kolkata Police",
+      "category": "Police",
+      "status": "draft",
+      "totalVacancies": 1131,
+      "salaryRange": "₹32,100 - ₹82,900 (Pay Level 10 of WBS ROPA 2019)",
+      "importantDates": {
+        "applicationStart": "18-10-2026",
+        "applicationEnd": "20-11-2026",
+        "feeLastDate": "20-11-2026",
+        "admitCardDate": "01-12-2026",
+        "examDate": "01-01-2027",
+        "resultDate": "01-03-2027"
+      },
+      "eligibility": {
+        "minQualification": "Bachelor’s degree in any discipline from a recognized university. Physical Measurement: Min Height 167 cm for Male (UB), 160 cm for Female (UB). Ability to speak, read and write Bengali.",
+        "ageLimit": "20 to 30 years as of 01/01/2026. Age relaxable for SC/ST by 5 years, OBC by 3 years.",
+        "experience": "None"
+      },
+      "applicationFee": {
+        "generalOBC": "₹270/- (Application Fee: ₹250 + Processing Fee: ₹20)",
+        "scStPwd": "₹20/- (Processing Fee only for SC/ST of WB)",
+        "paymentMode": "Debit Cards, Credit Cards, Net Banking, e-Wallets, UPI"
+      },
+      "selectionProcess": [
+        "Preliminary Examination (200 marks)",
+        "Physical Measurement Test (PMT) & Physical Efficiency Test (PET: 800m run in 3 min for Male, 400m in 2 min for Female)",
+        "Combined Competitive Main Examination (3 papers: English, Bengali/Hindi/Urdu/Nepali, General Studies & Arithmetic - 200 marks)",
+        "Personality Test (30 marks)"
+      ],
+      "links": {
+        "officialWebsite": "https://prb.wb.gov.in",
+        "notificationPdf": "https://prb.wb.gov.in/wbprb_si_notice_2026.pdf",
+        "applyOnline": "https://prb.wb.gov.in"
+      },
+      "summary": "West Bengal Police Recruitment Board has announced 1,131 posts for Sub-Inspector and Sergeants. Great opportunity for graduates looking for uniform service in WB.",
+      "escGuidanceNotes": "Physical efficiency training drills organized in collaboration with local youth sports clubs in Kolkata for registered ESC candidates.",
+      "tags": [
+        "West Bengal Police",
+        "Kolkata Police",
+        "Sub Inspector",
+        "WBPRB",
+        "Uniform Job"
+      ],
+      "createdAt": "2026-10-26T11:32:00.627Z",
+      "updatedAt": "2026-10-26T13:32:00.627Z",
+      "approvalChannel": null,
+      "approvedAt": null,
+      "publishedAt": null,
+      "queueRemovalReason": "Mandatory links have not been verified yet.",
+      "removedFromQueueAt": "2026-10-26T13:32:00.627Z",
+      "linkVerification": {
+        "verified": true,
+        "applyOnline": {
+          "url": "https://prb.wb.gov.in",
+          "valid": true,
+          "status": "verified",
+          "statusCode": 200,
+          "message": "Direct link verified active",
+          "checkedAt": "2026-10-26T13:35:10.333Z"
+        },
+        "notificationPdf": {
+          "url": "https://prb.wb.gov.in/wbprb_si_notice_2026.pdf",
+          "valid": true,
+          "status": "verified",
+          "statusCode": 200,
+          "isPdf": true,
+          "message": "Official notification PDF verified reachable",
+          "checkedAt": "2026-10-26T13:35:10.333Z"
+        },
+        "officialWebsite": {
+          "url": "https://prb.wb.gov.in",
+          "valid": true,
+          "status": "verified",
+          "statusCode": 200,
+          "message": "Official portal verified active",
+          "checkedAt": "2026-10-26T13:35:10.333Z"
+        },
+        "checkedAt": "2026-10-26T13:35:10.333Z"
+      }
+    },
+    {
+      "id": "exam-wbhrb-gdmo-2026",
+      "title": "WBHRB General Duty Medical Officer (GDMO) Recruitment 2026",
+      "organization": "West Bengal Health Recruitment Board (WBHRB)",
+      "postName": "General Duty Medical Officer (GDMO), Grade III",
+      "category": "State PSC",
+      "status": "draft",
+      "totalVacancies": 1240,
+      "salaryRange": "₹56,100 - ₹1,44,300 (Pay Level 16)",
+      "importantDates": {
+        "applicationStart": "18-10-2026",
+        "applicationEnd": "30-11-2026",
+        "feeLastDate": "01-12-2026"
+      },
+      "eligibility": {
+        "minQualification": "MBBS Degree included in the First or Second Schedule of Medical Council of India Act, 1956. Registration as Medical Practitioner in WB.",
+        "ageLimit": "Not more than 36 years as on 01.01.2026 for ordinary Medical Graduates.",
+        "experience": "1 year compulsory rotatory internship"
+      },
+      "applicationFee": {
+        "generalOBC": "₹210/-",
+        "scStPwd": "Nil"
+      },
+      "selectionProcess": [
+        "Academic Record & Experience Evaluation (85 marks)",
+        "Interview (15 marks)"
+      ],
+      "links": {
+        "officialWebsite": "https://wbhrb.in",
+        "notificationPdf": "",
+        "applyOnline": ""
+      },
+      "linkVerification": {
+        "verified": false,
+        "applyOnline": {
+          "url": "",
+          "valid": false,
+          "status": "unchecked",
+          "message": "Missing Apply Online direct link",
+          "checkedAt": "2026-10-26T13:32:00.627Z"
+        },
+        "notificationPdf": {
+          "url": "",
+          "valid": false,
+          "status": "unchecked",
+          "message": "Missing Official Notification PDF link",
+          "checkedAt": "2026-10-26T13:32:00.627Z"
+        },
+        "officialWebsite": {
+          "url": "https://wbhrb.in",
+          "valid": true,
+          "status": "verified",
+          "message": "Portal active",
+          "checkedAt": "2026-10-26T13:32:00.627Z"
+        },
+        "checkedAt": "2026-10-26T13:32:00.627Z"
+      },
+      "queueRemovalReason": "Mandatory links not available: Apply Online Direct Link, Official Notification PDF",
+      "removedFromQueueAt": "2026-10-26T10:32:00.627Z",
+      "summary": "West Bengal Health Recruitment Board has announced 1,240 Medical Officer vacancies in WB Health Service. Under quality rules, it remains in Drafts until direct URLs are confirmed.",
+      "escGuidanceNotes": "Notice parsed from newspaper circular. Removed from approval queue until direct application link and gazette PDF are confirmed on wbhrb.in.",
+      "tags": [
+        "West Bengal",
+        "Health Dept",
+        "MBBS",
+        "Medical Officer",
+        "WBHRB"
+      ],
+      "createdAt": "2026-10-26T07:32:00.627Z",
+      "updatedAt": "2026-10-26T10:32:00.627Z",
+      "approvalChannel": null,
+      "approvedAt": null,
+      "publishedAt": null
+    }
+  ],
+  "config": {
+    "wordpress": {
+      "siteUrl": "https://esckolkata2003.org",
+      "apiEndpoint": "https://esckolkata2003.org/wp-json/wp/v2/posts",
+      "jobVacanciesPageSlug": "job-vacancies",
+      "jobVacanciesPageUrl": "https://esckolkata2003.org/job-vacancies/",
+      "username": "esc_admin",
+      "applicationPassword": "",
+      "postStatus": "publish",
+      "defaultCategory": "Exams & Notifications",
+      "authorId": 1,
+      "autoPublishOnApproval": true,
+      "autoSyncJobVacanciesPage": true
+    },
+    "adminEmail": {
+      "email": "shadabsarwar@gmail.com",
+      "enabled": true,
+      "notifyOnNewNotification": true
+    },
+    "adminWhatsApp": {
+      "phoneNumber": "+919830012345",
+      "enabled": true,
+      "notifyOnNewNotification": true
+    },
+    "adminTelegram": {
+      "botToken": "",
+      "chatId": "",
+      "enabled": true,
+      "notifyOnNewNotification": true
+    }
+  },
+  "logs": [
+    {
+      "id": "log-block-1793021723924-exam-1793021719604",
+      "timestamp": "2026-10-26T13:35:23.924Z",
+      "type": "queue_prune",
+      "channel": "web",
+      "title": "Action Blocked & Removed to Drafts: Test Exam with Missing Links",
+      "details": "Cannot approve exam: Mandatory link(s) missing: Apply Online Direct Link, Official Notification PDF. Item demoted to Drafts.",
+      "status": "error",
+      "examId": "exam-1793021719604"
+    },
+    {
+      "id": "log-prune-1793021719604",
+      "timestamp": "2026-10-26T13:35:19.604Z",
+      "type": "queue_prune",
+      "channel": "web",
+      "title": "Excluded from Approval Queue: Test Exam with Missing Links",
+      "details": "Mandatory links unconfirmed. Saved as Draft: Mandatory link(s) missing: Apply Online Direct Link, Official Notification PDF",
+      "status": "warning"
+    },
+    {
+      "id": "log-prune-1793021520627-exam-wbprb-si-2026",
+      "timestamp": "2026-10-26T13:32:00.627Z",
+      "type": "queue_prune",
+      "channel": "web",
+      "title": "Removed from Approval Queue: West Bengal Police SI & Lady SI Recruitment 2026",
+      "details": "Item removed from approval queue and moved to Drafts: Mandatory links have not been verified yet.",
+      "status": "warning",
+      "examId": "exam-wbprb-si-2026"
+    },
+    {
+      "id": "log-prune-1793021520627-exam-ssc-cgl-2026",
+      "timestamp": "2026-10-26T13:32:00.627Z",
+      "type": "queue_prune",
+      "channel": "web",
+      "title": "Removed from Approval Queue: SSC Combined Graduate Level (CGL) 2026 Recruitment",
+      "details": "Item removed from approval queue and moved to Drafts: Mandatory links have not been verified yet.",
+      "status": "warning",
+      "examId": "exam-ssc-cgl-2026"
+    },
+    {
+      "id": "log-prune-1793021520627-exam-wbpsc-wbcs-2026",
+      "timestamp": "2026-10-26T13:32:00.627Z",
+      "type": "queue_prune",
+      "channel": "web",
+      "title": "Removed from Approval Queue: WBPSC West Bengal Civil Services (Exe) Recruitment 2026",
+      "details": "Item removed from approval queue and moved to Drafts: Mandatory links have not been verified yet.",
+      "status": "warning",
+      "examId": "exam-wbpsc-wbcs-2026"
+    },
+    {
+      "id": "log-1",
+      "timestamp": "2026-10-26T11:32:00.627Z",
+      "type": "wordpress_publish",
+      "channel": "telegram",
+      "title": "Published RRB NTPC Graduate Level to WordPress",
+      "details": "Post created on esckolkata2003.org (Post ID: 10428). Triggered via Telegram inline keyboard approval.",
+      "status": "success",
+      "examId": "exam-rrb-ntpc-2026",
+      "extraUrl": "https://esckolkata2003.org/rrb-ntpc-graduate-level-recruitment-8113-posts/"
+    },
+    {
+      "id": "log-2",
+      "timestamp": "2026-10-26T01:32:00.627Z",
+      "type": "approval",
+      "channel": "email",
+      "title": "Approved IBPS PO XIV via Admin Email",
+      "details": "Admin verified qualification and salary parameters. Queued for scheduled release.",
+      "status": "info",
+      "examId": "exam-ibps-po-xiv"
+    },
+    {
+      "id": "log-3",
+      "timestamp": "2026-10-26T09:32:00.627Z",
+      "type": "notification_sent",
+      "channel": "email",
+      "title": "Approval Alert Sent to shadabsarwar@gmail.com",
+      "details": "Dispatched alert for WBPSC WBCS 2026 with 1-click approve link.",
+      "status": "success",
+      "examId": "exam-wbpsc-wbcs-2026"
+    }
+  ]
+}

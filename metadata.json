@@ -1,0 +1,6 @@
+{
+  "name": "ExamTrack ESC - Exam & Vacancy Publisher",
+  "description": "Live competitive exam notification tracker and automated multi-channel approval publisher for ESC Kolkata (esckolkata2003.org) with Email, WhatsApp and Telegram approvals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
